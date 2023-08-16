@@ -1,16 +1,20 @@
-### Hi there 👋
+### ola, seja bem vindo ⚔️💀⚔️ 
 
-<!--
-**riolinZ/riolinZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**riolinZ**
 
-Here are some ideas to get you started:
+meu nome é leonardo zielinski 🙋‍♂️
+- estou estudando alura 🖥️
+- estou estudado java scrip 📚
+- vou usar isso para ganha pontos em pençamento computacional 💻
+- [alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Se você quiser entrar em contato comigo(coisa que não recomendo e não irei aceitar) 
+ leonardo.zielinski@escola.pr.gov.br
+
+![](https://media.tenor.com/qIhgj8cLz9UAAAAC/charmander-charmander-pokemon.gif)
+
+
+
+
+
+  
